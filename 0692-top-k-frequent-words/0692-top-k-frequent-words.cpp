@@ -21,14 +21,6 @@ class compare{
     }
 };
 
-// static bool compare(qual* a, qual* b){
-//     if(a->freq < b->freq) return true;
-//     if(a->freq > b->freq) return false;
-//     else{
-//         return a->data > b->data;
-//     }
-// }
-
 
 class Solution {
 public:
